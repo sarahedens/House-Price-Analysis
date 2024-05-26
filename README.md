@@ -2,10 +2,9 @@
 Analysis of house prices using various attributes using Python and Tableau storyboard 
 
 House-Price-Analysis
-Introduction:
+**Introduction:**
 This project involves analyzing house prices using a dataset containing various attributes of houses sold in Ames, Iowa. The goal is to understand the key factors that influence house prices, focusing on overall quality, condition, and location.
 
-Hypothesis
 Hypothesis: The overall quality and condition of a house, along with its location, significantly influence its sale price.
 
 Data Sources
